@@ -3,7 +3,7 @@ var friends = {
         firstName: "Bill",
         lastName: "Rogers",
         number: 502-555-5555,
-        address: ['14 Cuck Rd', 'Las Vegas', 'NV', '78656']
+        address: ['14 Couch Rd', 'Las Vegas', 'NV', '78656']
         },
     steve: {
         firstName: "Steve",
